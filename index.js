@@ -25,5 +25,6 @@ skaicius = skaicius +3;
 skaicius += 3;
 skaicius -= 3;
 skaicius *= 3;
+skaicius /= 3;
 skaicius %= 7;  /*liekana*/
 console.log('skaicius: ', skaicius)
