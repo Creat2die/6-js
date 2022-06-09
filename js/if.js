@@ -117,3 +117,4 @@ if (lietus === true && temp >= nuoKadaSilta){
 } else {
     console.log('Nesamone :X');
 }
+

@@ -6,6 +6,7 @@
   "scripts": {
     "dev" : "nodemon",
     "if": "nodemon ./js/if.js",
+    "ternary": "nodemon ./js/ternary.js",
     "function": "nodemon ./js/function.js",
     "number": "nodemon ./js/number.js",
     "strings": "nodemon ./js/strings.js",
