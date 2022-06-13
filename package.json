@@ -6,6 +6,7 @@
   "scripts": {
     "dev" : "nodemon",
     "arrow" : "nodemon ./js/arrow.js",
+    "spred" : "nodemon ./js/spred.js",
     "if": "nodemon ./js/if.js",
     "for": "nodemon ./js/for.js",
     "ternary": "nodemon ./js/ternary.js",
