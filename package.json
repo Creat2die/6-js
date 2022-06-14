@@ -9,6 +9,7 @@
     "spred" : "nodemon ./js/spred.js",
     "if": "nodemon ./js/if.js",
     "for": "nodemon ./js/for.js",
+    "swich": "nodemon ./js/swich.js",
     "ternary": "nodemon ./js/ternary.js",
     "function": "nodemon ./js/function.js",
     "uzduotys": "nodemon ./js/uzduotys.js",
