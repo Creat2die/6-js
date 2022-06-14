@@ -101,3 +101,25 @@ const difReduce20 = marks.reduce((total, mark) => total - mark, 20);
 
 console.log(difReduce); 
 console.log(difReduce20); 
+
+
+// sort
+console.log('--------------sort numbers');
+
+const list = [10, 2, 8, 4, 6, 1, 7, 23, 17];
+const minMaxMarks = [...list].sort((a, b) => a - b);
+const maxMinMarks = [...list].sort((a, b) => b - a);
+
+console.log(list);
+console.log(minMaxMarks);
+console.log(maxMinMarks);
+
+console.log('--------------sort numbers');
+const stringList = ['b', 'd', 'c', 'de', 'be', 'a', 'at'];
+const stringSort = [...stringList].sort();
+const minMaxStrings = [...stringList].sort((a, b) => a > b ? -1 : 1);
+const maxMinStrings = [...stringList].sort((a, b) => a < b ? -1 : 1);
+
+console.log(stringList);
+console.log(minMaxStrings);
+console.log(maxMinStrings);
