@@ -33,3 +33,15 @@ function wordCount(str){
 }
 
 console.log(wordCount(bigText));
+
+
+const dic = wordCount(bigText);
+
+//for-in
+let uniqueWordsCount = 0;
+for( const key in dic){
+    uniqueWordsCount++
+    console.log(key, '->', dic[key]);
+}
+
+console.log(uniqueWordsCount);
