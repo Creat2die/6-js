@@ -19,6 +19,7 @@
     "math-as-object": "nodemon ./js/math-as-object.js",
     "function": "nodemon ./js/function.js",
     "uzduotys": "nodemon ./js/uzduotys.js",
+    "number-import": "nodemon ./number-import.js",
     "letterCount": "nodemon ./js/letterCount.js",
     "number": "nodemon ./js/number.js",
     "array": "nodemon ./js/array.js",
