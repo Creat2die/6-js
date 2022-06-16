@@ -254,7 +254,7 @@ Skaičių intervale tarp 0 ir 11, besidalijančių be liekanos iš 3 yra 4 viene
 Skaičių intervale tarp 0 ir 11, besidalijančių be liekanos iš 5 yra 3 vienetai.
 Skaičių intervale tarp 0 ir 11, besidalijančių be liekanos iš 7 yra 2 vienetai.
 */
-
+/*
 //4-1 
 let kintamasis = null;
 for (i = 0; i <= 0; i++){
@@ -330,3 +330,13 @@ for (i= -18; i <=18; i++){
     }
 }
 console.log(sk2);
+*/
+ console.log('----------');
+const a = 936956;
+
+const c =  (a /100) + 1;
+
+const b = c.toFixed(0);
+console.log(b);
+console.log(Number(b));
+console.log(c);

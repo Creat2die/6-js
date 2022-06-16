@@ -10,6 +10,7 @@
     "arrow" : "nodemon ./js/arrow.js",
     "object" : "nodemon ./js/object.js",
     "spred" : "nodemon ./js/spred.js",
+    "number-parsing" : "nodemon ./js/number-parsing.js",
     "if": "nodemon ./js/if.js",
     "for": "nodemon ./js/for.js",
     "swich": "nodemon ./js/swich.js",
