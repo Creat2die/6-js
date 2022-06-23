@@ -30,6 +30,12 @@ console.log(bart);
 console.log(liza);
 
 
+
+const {age: bartAge} = bart;
+const {age: lizaAge} = liza;
+console.log('bartage: ', bartAge);
+console.log('Liza age: ', lizaAge);
+
 const marks = [1, 2, 3, 4, 5];
 /*
 const first = marks[0];
