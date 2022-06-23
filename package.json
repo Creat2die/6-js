@@ -28,6 +28,7 @@
     "math-as-array": "nodemon ./js/math-as-array.js",
     "math-as-object": "nodemon ./js/math-as-object.js",
     "function": "nodemon ./js/function.js",
+    "pc-storage": "nodemon ./js/pc-storage.js",
     "uzduotys": "nodemon ./js/uzduotys.js",
     "number-import": "nodemon ./number-import.js",
     "letterCount": "nodemon ./js/letterCount.js",
@@ -35,6 +36,7 @@
     "numcount": "nodemon ./js/numcount.js",
     "array": "nodemon ./js/array.js",
     "strings": "nodemon ./js/strings.js",
+    "destructuring": "nodemon ./js/destructuring.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

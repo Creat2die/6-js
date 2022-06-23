@@ -39,7 +39,7 @@ function oldest(list, depth = 0){
             } 
         }
     }
-
+    console.log(depth, {name, age});
     return depth === 0 ? `${name} is ${age} years old` : {name, age};
     //return `${name} is ${age} years old`;
 }
